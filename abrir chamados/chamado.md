@@ -24,6 +24,9 @@
 
 ![Imagem 5](<chamado5.png>)
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<abrirChamado ‐ Feito com o Clipchamp.gif>)
+
 ###### Pronto! Agora você já sabe como abrir um chamado para resolver o seu problema.
 
 
