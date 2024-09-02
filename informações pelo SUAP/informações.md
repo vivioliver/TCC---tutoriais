@@ -4,6 +4,9 @@
 
 ![Imagem 1](<informações.png>)
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<informações.gif>)
+
 ###### Você também poderá ter acesso a essas informações via email! 
 ###### Pronto! Agora você já sabe como ter acesso a informações pelo SUAP.
 

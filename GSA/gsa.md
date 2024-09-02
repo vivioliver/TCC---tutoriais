@@ -7,4 +7,7 @@
 
 ###### Você já será automaticamente redirecionado.
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<gsa.gif>)
+
 ###### Pronto! Agora você já sabe como ter acesso ao **Google Sala de Aula pelo SUAP**.

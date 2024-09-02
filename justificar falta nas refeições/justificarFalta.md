@@ -8,5 +8,9 @@
 
 ![Imagem 2](<falta2.png>)
 
+###### Aqui segue um vídeo
+
+![Aqui segue um gif](<faltaRefeição.gif>)
+
 ###### Pronto! Agora você já sabe como justificar falta nas refeições.
 
