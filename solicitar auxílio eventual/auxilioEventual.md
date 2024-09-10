@@ -16,6 +16,9 @@
 
 ![Imagem 3](<auxilio3.png>)
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<auxilio.gif>)
+
 ###### Pronto! Agora você já sabe como solicitar auxílio eventual.
 
 

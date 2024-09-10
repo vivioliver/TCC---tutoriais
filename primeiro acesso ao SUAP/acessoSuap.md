@@ -8,6 +8,9 @@
 
 ![Imagem 1](<acesso1.png>)
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<login.gif>)
+
 ###### Pronto! Agora você terá acesso ao SUAP e poderá usá-lo conforme sua necessidade.
 
 

@@ -8,6 +8,9 @@
 
 ![Imagem 2](<refeicao2.png>)
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<solicitar refeição.gif>)
+
 ###### Pronto! Agora você já sabe como solicitar refeições.
 
 

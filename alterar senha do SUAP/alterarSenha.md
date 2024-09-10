@@ -14,6 +14,9 @@
 
 ![Imagem 3](<alterar_s3.png>)
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<esqueceu senha.gif>)
+
 ###### Pronto! Agora você já sabe como alterar sua senha do SUAP.
 
 

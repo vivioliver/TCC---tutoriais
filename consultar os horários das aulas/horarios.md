@@ -14,6 +14,9 @@
 
 ###### 5. Será aberta uma lista com todas as turmas que são do mesmo horário que você selecionou. Agora é só procurar sua turma e verificar os horários.
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<horarios.gif>)
+
 ###### Pronto! Agora você já sabe como consultar os horários das aulas.
 
 

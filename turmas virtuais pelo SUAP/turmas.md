@@ -17,6 +17,9 @@
 
 ![Imagem 4](<turmas4.png>)
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<disciplinas.gif>)
+
 ###### Você também poderá ter acesso a informações como horários/locais de aulas e quantidade de faltas na disciplina.
 ###### Pronto! Agora você já sabe como ter acesso às turmas virtuais pelo SUAP.
 
